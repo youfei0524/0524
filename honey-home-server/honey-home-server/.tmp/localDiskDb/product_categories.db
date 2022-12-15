@@ -1,0 +1,7 @@
+{"name":"鲜花","desc":"icon-xianhua-","createdAt":1665746177718,"updatedAt":1665840076390,"id":5,"parent":0,"cover_image":"/uploads/a5a40db0-e6ca-4ad6-9ef7-0e8a855e7eab.jpg","_id":5}
+{"name":"永生花","desc":"icon-huadian-yongshenghua","createdAt":1665752369238,"updatedAt":1665840090478,"id":6,"parent":0,"cover_image":"/uploads/42c79293-e4d1-494f-8641-3e30d8d839e9.jpg","_id":6}
+{"name":"蛋糕","desc":"icon-dangao","createdAt":1665753438607,"updatedAt":1665840100841,"id":7,"parent":0,"cover_image":"/uploads/22bb3870-d9d1-44ea-9883-955ad13c2393.jpg","_id":7}
+{"name":"礼品","desc":"icon-liwu","createdAt":1665753481777,"updatedAt":1665840111225,"id":8,"parent":0,"cover_image":"/uploads/fdcf7b86-886e-41fe-b679-04d3b39c246e.jpg","_id":8}
+{"name":"绿植花卉","desc":"icon-penzai10","createdAt":1665753499896,"updatedAt":1665840121220,"id":9,"parent":0,"cover_image":"/uploads/5e6e8aa3-4681-4d57-863e-17b6419eefcd.jpg","_id":9}
+{"name":"礼篮","desc":"icon-lanzi","createdAt":1665753530025,"updatedAt":1665840130498,"id":10,"parent":0,"cover_image":"/uploads/e86319f3-26e0-4529-aaa1-89f1266c2abd.jpg","_id":10}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
